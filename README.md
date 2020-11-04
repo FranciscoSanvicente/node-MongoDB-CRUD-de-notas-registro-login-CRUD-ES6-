@@ -5,6 +5,7 @@ This app can:
 - Allows a user to do log in and save his personal notes
 
 # Screenshot
+![](docs/login.png)
 ![](docs/tasks.png)
 
 # Environment Variables
